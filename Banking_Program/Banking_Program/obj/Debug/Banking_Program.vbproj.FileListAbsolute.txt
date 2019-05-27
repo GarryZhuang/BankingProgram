@@ -1,0 +1,36 @@
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\bin\Debug\Banking_Program.exe.config
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\bin\Debug\Banking_Program.exe
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\bin\Debug\Banking_Program.pdb
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\bin\Debug\Banking_Program.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.frmMain.resources
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.Resources.resources
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.exe
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.xml
+C:\Users\Garry Zhuang\AppData\Local\Temporary Projects\Banking_Program\obj\Debug\Banking_Program.pdb
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\bin\Debug\Banking_Program.exe.config
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\bin\Debug\Banking_Program.exe
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\bin\Debug\Banking_Program.pdb
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\bin\Debug\Banking_Program.xml
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbprojResolveAssemblyReference.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.frmMain.resources
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.Resources.resources
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbproj.GenerateResource.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbproj.CoreCompileInputs.cache
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.exe
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.xml
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.pdb
+C:\Users\Garry Zhuang\Desktop\Energy_Comsumption\Banking_Program\Banking_Program\obj\Debug\Banking_Program.frmDatabase.resources
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\bin\Debug\Banking_Program.exe.config
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\bin\Debug\Banking_Program.exe
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbprojResolveAssemblyReference.cache
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.frmDatabase.resources
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.frmMain.resources
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.Resources.resources
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbproj.GenerateResource.cache
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.vbproj.CoreCompileInputs.cache
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.exe
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.xml
+\\file\students\ZHU0028\SACTest\Banking_Program\Banking_Program\obj\Debug\Banking_Program.pdb
